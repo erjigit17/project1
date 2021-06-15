@@ -1,0 +1,30 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erjigit17/project1.git"
+  },
+  "author": "Erjigit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erjigit17/project1/issues"
+  },
+  "homepage": "https://github.com/erjigit17/project1#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "dependencies": {
+    "@metarhia/common": "github:metarhia/common",
+    "metarhia-common": "^0.0.38"
+  }
+}
